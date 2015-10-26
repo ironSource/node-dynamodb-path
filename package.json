@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert array path to DynamoDB UpdateExpression path",
   "license": "MIT",
   "files": [
