@@ -2,7 +2,7 @@
 
 **Convert an array path like `['x', '291', '2', 'beep', 283]` to a string path like `#x[291][2].#beep[283]` suitable for DynamoDB UpdateExpressions.**
 
-[![npm status](http://img.shields.io/npm/v/dynamodb-path.svg?style=flat-square)](https://www.npmjs.org/package/dynamodb-path) [![Dependency status](https://img.shields.io/david/vweevers/node-dynamodb-path.svg?style=flat-square)](https://david-dm.org/vweevers/node-dynamodb-path)
+[![npm status](http://img.shields.io/npm/v/dynamodb-path.svg?style=flat-square)](https://www.npmjs.org/package/dynamodb-path) [![Dependency status](https://img.shields.io/david/ironSource/node-dynamodb-path.svg?style=flat-square)](https://david-dm.org/ironSource/node-dynamodb-path)
 
 ## example
 
